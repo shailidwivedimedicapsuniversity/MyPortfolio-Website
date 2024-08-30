@@ -95,7 +95,7 @@ body {
 .slider-content {
   text-align: center;
   position: absolute;
-  top: 30%;
+  top: 20%;
   width: 100%;
 }
 
@@ -104,8 +104,8 @@ body {
   margin-right: 7px;
 } */
 .profile img {
-  height: 230px;
-  border-radius: 50%;
+  height: 270px;
+  border-radius: 20%;
 }
 
 .cta-div {
